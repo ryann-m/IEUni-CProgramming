@@ -107,11 +107,9 @@ Because this repository is primarily a record of coursework, the C source files 
 
 ## Background
 
-**Name:** [YOUR NAME]
+**Name:** Ryann Mack
 
-**Email:** [YOUR EMAIL]
-
-**Profile:** [YOUR PROFILE URL]
+**Profile:** (https://github.com/ryann-m)
 
 **Computer Science** — IE University, Madrid  
 2024–2026
