@@ -1,0 +1,14 @@
+name: cdev
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - cmake
+  - ninja
+  - make
+  - c-compiler
+  - doxygen
+  - pip 
+  - pip:
+    - breathe
+    - sphinx

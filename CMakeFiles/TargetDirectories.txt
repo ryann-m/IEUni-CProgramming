@@ -1,0 +1,11 @@
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/CMakeFiles/test.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/CMakeFiles/edit_cache.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/CMakeFiles/rebuild_cache.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/src/CMakeFiles/filePracticeMain.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/src/CMakeFiles/filePracticeLibrary.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/src/CMakeFiles/test.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/src/CMakeFiles/edit_cache.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/src/CMakeFiles/rebuild_cache.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/tests/CMakeFiles/test.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/tests/CMakeFiles/edit_cache.dir
+/home/ryann3/c-template-project/advancedC/files-homeWork/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ryann3/c-template-project/advancedC/files-homeWork/build/cmake_install.cmake",
+		"/home/ryann3/c-template-project/advancedC/files-homeWork/build/src/cmake_install.cmake",
+		"/home/ryann3/c-template-project/advancedC/files-homeWork/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
